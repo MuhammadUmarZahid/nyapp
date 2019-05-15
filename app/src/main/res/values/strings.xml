@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NY Times Most Popular</string>
+    <string name="title_article_detail">Article Detail</string>
+    <string name="nav_open">Open navigation drawer</string>
+    <string name="nav_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
